@@ -14,8 +14,7 @@ cd ../darknet && make
  
 ## 下载text.weights模型文件   
 模型文件地址:
-http://www.chineseocr.com:9990/static/models/table-ocr/table.weights  
-
+http://59.110.234.163:9990/static/models/table-ocr/table.weights  
 拷贝table.weights文件到models目录
 
 ## 测试
@@ -34,3 +33,7 @@ python3 table.py -jpgPath test/dd.jpg
 1. darket         https://github.com/pjreddie/darknet.git                 
 2. darknet-ocr    https://github.com/chineseocr/darknet-ocr.git   
 3. chineseocr     https://github.com/chineseocr/chineseocr.git       
+
+## 技术支持  
+mail:chineseocr@hotmail.com   
+wechat:lywen52   
