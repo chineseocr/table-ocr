@@ -17,6 +17,10 @@ cd ../darknet && make
 http://59.110.234.163:9990/static/models/table-ocr/table.weights  
 拷贝table.weights文件到models目录
 
+## 训练（tensorflow2.0版本训练）     
+https://github.com/chineseocr/table-detect.git     
+
+
 ## 测试
 ``` Bash
 python3 table.py -jpgPath test/dd.jpg 
