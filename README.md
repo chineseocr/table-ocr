@@ -14,7 +14,7 @@ cd ../darknet && make
  
 ## 下载text.weights模型文件   
 模型文件地址:
-http://59.110.234.163:9990/static/models/table-ocr/table.weights  
+链接:https://pan.baidu.com/s/1JA7Htdsqgc66xodl9oVqtQ  密码:bnqb 
 拷贝table.weights文件到models目录
 
 ## 训练（tensorflow2.0版本训练）     
