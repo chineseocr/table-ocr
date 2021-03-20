@@ -13,8 +13,7 @@ cd ../darknet && make
 `
  
 ## 下载text.weights模型文件   
-模型文件地址:
-链接:https://pan.baidu.com/s/1JA7Htdsqgc66xodl9oVqtQ  密码:bnqb 
+模型文件地址: http://gofile.me/4Nlqh/fNHlWzVWo
 拷贝table.weights文件到models目录
 
 ## 训练（tensorflow2.0版本训练）     
