@@ -36,7 +36,4 @@ python3 table.py -jpgPath test/dd.jpg
 1. darket         https://github.com/pjreddie/darknet.git                 
 2. darknet-ocr    https://github.com/chineseocr/darknet-ocr.git   
 3. chineseocr     https://github.com/chineseocr/chineseocr.git       
-
-## 技术支持  
-mail:chineseocr@hotmail.com   
-wechat:lywen52   
+   
